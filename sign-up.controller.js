@@ -54,9 +54,6 @@ const login = (req, res) => {
                                 res.json(result2);
                             }
                         })
-
-                        //        res.json({message:"token puppy updated success"})
-                        //   res.json({message:"login success"})
                     }
                 })
 
